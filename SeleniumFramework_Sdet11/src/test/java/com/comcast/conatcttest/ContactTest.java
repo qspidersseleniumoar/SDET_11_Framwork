@@ -18,4 +18,9 @@ public class ContactTest {
 	  public void deleteconatcttest() {
 		  System.out.println("execute deleteconatcttest");
 	  }
+	  
+	  @Test
+	  public void searchconatcttest() {
+		  System.out.println("execute searchconatcttest");
+	  }
 }
